@@ -25,13 +25,13 @@
 ## 🛠️ Как запустить проект
 
 ### Вариант 1: Играть в готовую сборку (без Unity)
-1. Перейди в раздел [Releases](https://github.com/staspykubsu/tennis-game/releases) (справа на странице).
+1. Перейди в раздел [Releases](https://github.com/staspy/tennis-game/releases) (справа на странице).
 2. Скачай последний архив (`.rar`).
 3. Распакуй и запусти файл `Tennis.exe`.
 
 ### Вариант 2: Открыть исходный код в Unity
 1. Скачай или клонируй репозиторий:
-   `git clone https://github.com/staspykubsu/tennis-game.git`
+   `git clone https://github.com/staspy/tennis-game.git`
 2. Открой проект через Unity Hub (рекомендуется Unity 2022.3 или новее).
 3. Открой сцену `Assets/Scenes/SampleScene.unity` и нажми Play.
 
@@ -42,4 +42,4 @@
 
 ## 👤 Автор
 Создано в рамках изучения Unity и геймдизайна.
-GitHub: [staspykubsu](https://github.com/staspykubsu)
+GitHub: [staspy](https://github.com/staspy)
